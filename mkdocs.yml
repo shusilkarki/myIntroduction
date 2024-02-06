@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: IT Engineer Portfolio
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Experience: experience.md
+
+theme:
+  name: material
